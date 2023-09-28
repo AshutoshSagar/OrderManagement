@@ -1,0 +1,24 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/Term_Assignment/Frontend/ordermanagementgui/node_modules
+/Term_Assignment/Frontend/ordermanagementgui/.pnp
+/Term_Assignment/Frontend/ordermanagementgui/.pnp.js
+
+# testing
+/Term_Assignment/Frontend/ordermanagementgui/coverage
+
+# production
+/Term_Assignment/Frontend/ordermanagementgui/build
+
+# misc
+/Term_Assignment/Frontend/ordermanagementgui/.DS_Store
+/Term_Assignment/Frontend/ordermanagementgui/.env.local
+/Term_Assignment/Frontend/ordermanagementgui/.env.development.local
+/Term_Assignment/Frontend/ordermanagementgui/.env.test.local
+/Term_Assignment/Frontend/ordermanagementgui/.env.production.local
+
+/Term_Assignment/Frontend/ordermanagementgui/npm-debug.log*
+/Term_Assignment/Frontend/ordermanagementgui/yarn-debug.log*
+/Term_Assignment/Frontend/ordermanagementgui/yarn-error.log*
+
